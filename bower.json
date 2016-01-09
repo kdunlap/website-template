@@ -1,0 +1,19 @@
+{
+  "name": "Applied Handling",
+  "version": "0.1.0",
+  "authors": [
+    "Ken Dunlap <kdunlap4918@gmail.com>"
+  ],
+  "description": "Applied Handling",
+  "license": "None",
+  "ignore": [
+    "vendor/bower"
+  ],
+  "dependencies": {
+    "jquery-validation": "~1.14.0",
+    "normalize.css": "~3.0.2"
+  },
+  "resolutions": {
+    "jquery": ">= 1.8.3"
+  }
+}
